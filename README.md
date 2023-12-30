@@ -17,13 +17,13 @@ Las carpetas de los anhos y todo su contenido
 -Club de Arte
 
 
-
 <h1> No importante: </h1>
 -Educacion Artistica
--Educacion Fisica
 -Geografia
 
 
+Completadas: 
+Educacion Fisica
 
 Giovanni:
 
